@@ -4,8 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHs2023&size_weight=0.5&count_weight=0.5)
 
-### Technologies I like to use
-<div style="display: inline_block"><br/>
 
-  
-<div>
