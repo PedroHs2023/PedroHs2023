@@ -1,10 +1,20 @@
-<h1 align="center">Olá, eu sou o Pedro 👋</h1> <p align="center"> Estudante de Engenharia de Computação | Focado em Desenvolvimento Backend </p>
-🚀 Sobre mim
-🎓 Estudante de Engenharia de Computação
-💻 Foco principal em desenvolvimento backend, com interesse crescente em arquitetura de sistemas
-🌱 Atualmente aprofundando conhecimentos em Java e Spring Boot, aplicando boas práticas de organização em camadas (Controller, Service, Repository)
-📱 Explorando também desenvolvimento mobile com Flutter
-🔭 Trabalhando em um projeto pessoal: um app de notícias com backend próprio consumindo APIs externas
-📫 Buscando oportunidade de estágio em desenvolvimento de software
+# Hi, I'm Pedro 👋
+ 
+Computer Engineering student, focused on backend development.
+ 
+## About me
+ 
+- 🎓 Computer Engineering student
+- 💻 Focused on backend, learning Java and Spring Boot
+- 📱 Also learning Flutter for mobile development
+- 🔭 Building a news app as a personal project
+- 📫 Looking for a software development internship
+## Technologies
+ 
+Java · Spring Boot · Flutter · Git · GitHub · Maven · Python 
+ 
+## Featured project
+ 
+**[News App](https://github.com/PedroHs2023/News-app)** — News app with a Java/Spring Boot backend, consuming the NewsAPI, with category filtering. Mobile app in development with Flutter.
 
 
