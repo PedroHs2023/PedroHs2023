@@ -12,9 +12,5 @@ Computer Engineering student, focused on backend development.
 ## Technologies
  
 Java · Spring Boot · Flutter · Git · GitHub · Maven · Python 
- 
-## Featured project
- 
-**[News App](https://github.com/PedroHs2023/News-app)** — News app with a Java/Spring Boot backend, consuming the NewsAPI, with category filtering. Mobile app in development with Flutter.
 
 
